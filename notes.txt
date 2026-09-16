@@ -1,1 +1,1 @@
-hello git. from the master branch.
+combine hello from feature-2 and master branch.

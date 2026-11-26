@@ -1,3 +1,2 @@
 testing git add -A command...
 this is use to test the git rebase command.
-now lets test git rebase main
